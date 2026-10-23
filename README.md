@@ -17,7 +17,7 @@ I'm an AI software engineer in San Jose, California. I build full-stack AI appli
 | [Thesisaurus](https://github.com/khushnaidu/Thesisaurus) | A research assistant that answers questions across a corpus of robotics papers. It routes each question to SQL lookups, FAISS semantic search, or arXiv, then checks its own answer against the sources. | Python, FAISS, Llama 3, SQLite |
 | [BnBudget](https://github.com/khushnaidu/BnBudget) | A property management dashboard that streams booking and expense events through Kafka into PostgreSQL, with embedded analytics and AWS deployment. | React, Flask, PostgreSQL, Kafka, AWS |
 | [Mimir](https://mimir.sh) | Observability for AI agents, built at TA Studios. Install it with two lines of code to capture every agent trace, and anomaly detectors flag problems in agent runs. Source is private. | Next.js, Supabase, Python and npm SDKs, OTLP, MCP |
-| Loan Fit | Ranks physician job offers by their effect on a resident's student loan forgiveness. Source is private. | TypeScript |
+| Progna | Ranks physician job offers by their effect on a resident's student loan forgiveness. Source is private. | TypeScript |
 | 35mm | A social app for sharing and discussing the films you watch. In progress. Source is private. | Web |
 
 Source for private projects is available on request.
