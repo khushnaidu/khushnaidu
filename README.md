@@ -7,7 +7,7 @@ I'm an AI software engineer in San Jose, California. I build full-stack AI appli
 ## Experience
 
 - **Tech lead, TA Studios (2026).** Led development of Mimir, a multi-agent observability platform. Mimir ingests agent traces through its SDK or any OpenTelemetry endpoint and shows each team member's coding-agent runs on a shared board. I also managed the intern team and ran sprint planning.
-- **Software engineer (CW), Meta (2026).** Built test automation for product quality workflows.
+- **Software Engineer Intern, Meta (2026).** Architected and deployed an MCP-driven multi-agent system on Android emulation as a smarter alternative to Sapienz, automating bug verification and reproduction across Meta's app suite, scaling adoption to 15+ internal dogfooding teams and accurately filing and reproducing 78% of dogfooded bugs..
 
 ## Selected projects
 
